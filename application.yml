@@ -11,5 +11,5 @@ spring:
 spring:
  profiles: default
  application:
-      name: microconfig-test-default1
+      name: microconfig-test-default
 #测试
